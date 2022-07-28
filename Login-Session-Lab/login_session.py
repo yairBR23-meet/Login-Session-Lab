@@ -22,13 +22,6 @@ def home():
 			return render_template('thanks.html')
 		else:
 			return render_template('error.html')
-
-
-
-
-
-
-	
 	
 
 
